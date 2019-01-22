@@ -1,0 +1,21 @@
+${AnsiColor.BRIGHT_YELLOW}//控制banner.txt中的字符颜色
+
+          JJJJJJJJJJJ              hhhhhhh                              DDDDDDDDDDDDD
+          J:::::::::J              h:::::h                              D::::::::::::DDD
+          J:::::::::J              h:::::h                              D:::::::::::::::DD
+          JJ:::::::JJ              h:::::h                              DDD:::::DDDDD:::::D
+            J:::::J   ooooooooooo   h::::h hhhhh      nnnn  nnnnnnnn      D:::::D    D:::::D    ooooooooooo       eeeeeeeeeeee       ooooooooooo
+            J:::::J oo:::::::::::oo h::::hh:::::hhh   n:::nn::::::::nn    D:::::D     D:::::D oo:::::::::::oo   ee::::::::::::ee   oo:::::::::::oo
+            J:::::Jo:::::::::::::::oh::::::::::::::hh n::::::::::::::nn   D:::::D     D:::::Do:::::::::::::::o e::::::eeeee:::::eeo:::::::::::::::o
+            J:::::jo:::::ooooo:::::oh:::::::hhh::::::hnn:::::::::::::::n  D:::::D     D:::::Do:::::ooooo:::::oe::::::e     e:::::eo:::::ooooo:::::o
+            J:::::Jo::::o     o::::oh::::::h   h::::::h n:::::nnnn:::::n  D:::::D     D:::::Do::::o     o::::oe:::::::eeeee::::::eo::::o     o::::o
+JJJJJJJ     J:::::Jo::::o     o::::oh:::::h     h:::::h n::::n    n::::n  D:::::D     D:::::Do::::o     o::::oe:::::::::::::::::e o::::o     o::::o
+J:::::J     J:::::Jo::::o     o::::oh:::::h     h:::::h n::::n    n::::n  D:::::D     D:::::Do::::o     o::::oe::::::eeeeeeeeeee  o::::o     o::::o
+J::::::J   J::::::Jo::::o     o::::oh:::::h     h:::::h n::::n    n::::n  D:::::D    D:::::D o::::o     o::::oe:::::::e           o::::o     o::::o
+J:::::::JJJ:::::::Jo:::::ooooo:::::oh:::::h     h:::::h n::::n    n::::nDDD:::::DDDDD:::::D  o:::::ooooo:::::oe::::::::e          o:::::ooooo:::::o
+ JJ:::::::::::::JJ o:::::::::::::::oh:::::h     h:::::h n::::n    n::::nD:::::::::::::::DD   o:::::::::::::::o e::::::::eeeeeeee  o:::::::::::::::o
+   JJ:::::::::JJ    oo:::::::::::oo h:::::h     h:::::h n::::n    n::::nD::::::::::::DDD      oo:::::::::::oo   ee:::::::::::::e   oo:::::::::::oo
+     JJJJJJJJJ        ooooooooooo   hhhhhhh     hhhhhhh nnnnnn    nnnnnnDDDDDDDDDDDDD           ooooooooooo       eeeeeeeeeeeeee     ooooooooooo
+
+( ::This is my springboot-vue project demo!::${application.version}   ${application.formatted-version}
+:: Spring Boot ::  ${spring-boot.formatted-version} //springboot版本号前加v加括号  ${spring-boot.version} //springboot版本号)
